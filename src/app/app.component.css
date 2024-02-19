@@ -1,0 +1,54 @@
+
+
+#bg
+{
+    background-image: url(https://c.wallhere.com/photos/6b/52/field_nature_landscape_simple_hills_gradient_green-72604.jpg!s1);
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+input {
+    background:transparent;
+    border: none;
+    position: relative;
+    display: block;
+    outline: none;
+    /* width: 400px; */
+    height: 50px;
+    /* top: 50px; */
+    padding: 10px;
+    color:white;
+    -webkit-box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+    box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+  }
+  .card{
+    background: transparent;
+    display: block;
+    outline: none;
+    /* width: 500px; */
+    /* padding: 10px; */
+    color: #333;
+    -webkit-box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+    box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+  }
+  ::placeholder{
+    color: white;
+  }
+  /* .cntbg{
+    background-image: url(https://cdn.wallpapersafari.com/35/15/e35Vwz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* opacity: 0.5; */
+  /* } */ 
+
+  #cardbg{
+   background: transparent;
+  }
+  #mainbg{
+    background-image: url(https://media.istockphoto.com/id/1442314517/vector/abstract-green-and-blue-background.jpg?b=1&s=170667a&w=0&k=20&c=y7P8Qlw8szv3SVCx4g_0YGhyTp9drXvMTgKv7r9d1mE=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
